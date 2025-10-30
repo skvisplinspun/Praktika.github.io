@@ -1,0 +1,177 @@
+.o-sebe-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.o-sebe-frame5 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.o-sebe-image7 {
+  top: -2.2737367544323206e-13px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+}
+ 
+.o-sebe-text10 {
+  top: -29px;
+  left: 614px;
+  color: rgba(72, 92, 17, 1);
+  width: 691px;
+  height: auto;
+  position: absolute;
+  font-size: 160px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shrikhand;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.o-sebe-group1 {
+  top: 165px;
+  left: 346px;
+  width: 1201px;
+  height: 59px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.o-sebe-text11 {
+  color: rgba(86, 74, 56, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abhaya Libre ExtraBold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.o-sebe-text12 {
+  left: 544px;
+  color: rgba(86, 74, 56, 1);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abhaya Libre ExtraBold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.o-sebe-text13 {
+  left: 1103px;
+  color: rgba(86, 74, 56, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abhaya Libre ExtraBold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.o-sebe-group2 {
+  top: 266px;
+  left: 102px;
+  width: 1728px;
+  height: 324px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+ 
+.o-sebe-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 259px;
+  position: absolute;
+  border-radius: 35px;
+}
+ 
+.o-sebe-text16 {
+  top: 37px;
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  width: 1699px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abhaya Libre Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.o-sebe-link {
+  display: contents;
+}
+ 
+.o-sebe-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.o-sebe-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.o-sebe-text20 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}

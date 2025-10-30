@@ -1,0 +1,249 @@
+.main-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.main-frame1 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.main-image2 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1123px;
+  position: absolute;
+}
+ 
+.main-rectangle1 {
+  top: 747px;
+  left: 0px;
+  width: 1920px;
+  height: 333px;
+  opacity: 0.90;
+  position: absolute;
+  border-radius: 61px;
+}
+ 
+.main-rectangle9 {
+  top: 512px;
+  left: 990px;
+  width: 426px;
+  height: 573px;
+  position: absolute;
+  border-radius: 50px;
+}
+ 
+.main-rectangle12 {
+  top: 512px;
+  left: 1460px;
+  width: 425px;
+  height: 568px;
+  position: absolute;
+  border-radius: 50px;
+}
+ 
+.main-rectangle11 {
+  top: 512px;
+  left: 35px;
+  width: 426px;
+  height: 568px;
+  position: absolute;
+  border-radius: 50px;
+}
+ 
+.main-rectangle10 {
+  top: 512px;
+  left: 511px;
+  width: 428px;
+  height: 573px;
+  position: absolute;
+  border-radius: 50px;
+}
+ 
+.main-rectangle2 {
+  top: 526px;
+  left: 48px;
+  width: 400px;
+  height: 539px;
+  position: absolute;
+  border-radius: 35px;
+}
+ 
+.main-rectangle6 {
+  top: 526px;
+  left: 524px;
+  width: 402px;
+  height: 539px;
+  position: absolute;
+  border-radius: 35px;
+}
+ 
+.main-rectangle7 {
+  top: 526px;
+  left: 1003px;
+  width: 400px;
+  height: 539px;
+  position: absolute;
+  border-radius: 35px;
+}
+ 
+.main-rectangle8 {
+  top: 526px;
+  left: 1473px;
+  width: 400px;
+  height: 539px;
+  position: absolute;
+  border-radius: 35px;
+}
+ 
+.main-text1 {
+  left: 615px;
+  color: rgba(72, 92, 17, 1);
+  width: 691px;
+  height: auto;
+  position: absolute;
+  font-size: 160px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shrikhand;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.main-container2 {
+  flex: 0 0 auto;
+  width: 1199px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.main-group10 {
+  top: 209px;
+  left: 414px;
+  width: 1199px;
+  height: 155px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  justify-content: center;
+}
+ 
+.main-text2 {
+  top: 86px;
+  left: 524px;
+  color: rgba(72, 92, 17, 1);
+  width: 248px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abhaya Libre ExtraBold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.main-text3 {
+  top: 89px;
+  left: 105px;
+  color: rgba(72, 92, 17, 1);
+  width: 282px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abhaya Libre ExtraBold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.main-text4 {
+  top: 96px;
+  left: 962px;
+  color: rgba(72, 92, 17, 1);
+  width: 237px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abhaya Libre ExtraBold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.main-text7 {
+  top: 192px;
+  left: 636px;
+  color: rgba(86, 74, 56, 1);
+  width: 858px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abhaya Libre ExtraBold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.main-link {
+  display: contents;
+}
+ 
+.main-container3 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.main-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.main-text8 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}

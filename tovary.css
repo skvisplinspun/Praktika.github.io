@@ -1,0 +1,721 @@
+.tovary-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.tovary-frame2 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.tovary-text10 {
+  top: -29px;
+  left: 615px;
+  color: rgba(72, 92, 17, 1);
+  width: 691px;
+  height: auto;
+  position: absolute;
+  font-size: 160px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Shrikhand;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.tovary-group9 {
+  top: 161px;
+  left: 320px;
+  width: 1305px;
+  height: 59px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.tovary-text11 {
+  color: rgba(86, 74, 56, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abhaya Libre ExtraBold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.tovary-text12 {
+  left: 570px;
+  color: rgba(86, 74, 56, 1);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abhaya Libre ExtraBold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.tovary-text13 {
+  left: 1207px;
+  color: rgba(86, 74, 56, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abhaya Libre ExtraBold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.tovary-page-product-results {
+  gap: 64px;
+  top: 220px;
+  left: 362px;
+  width: 1197px;
+  height: 851px;
+  display: flex;
+  padding: 32px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(86, 74, 56, 1);
+}
+ 
+.tovary-filter-menu {
+  gap: 24px;
+  width: 240px;
+  display: flex;
+  padding: 16px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 251, 235, 1);
+}
+ 
+.tovary-section {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.tovary-checkbox-group {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.tovary-checkbox-field1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.tovary-checkboxand-label1 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.tovary-checkbox1 {
+  gap: 10px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(44, 44, 44, 1);
+}
+ 
+.tovary-check1 {
+  width: 16px;
+  height: 16px;
+}
+ 
+.tovary-text16 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-checkbox-field2 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.tovary-checkboxand-label2 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.tovary-checkbox2 {
+  gap: 10px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(44, 44, 44, 1);
+}
+ 
+.tovary-check2 {
+  width: 16px;
+  height: 16px;
+}
+ 
+.tovary-text17 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-checkbox-field3 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.tovary-checkboxand-label3 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.tovary-checkbox3 {
+  gap: 10px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(44, 44, 44, 1);
+}
+ 
+.tovary-check3 {
+  width: 16px;
+  height: 16px;
+}
+ 
+.tovary-text18 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-section-product-grid {
+  gap: 48px;
+  width: 829px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  flex-direction: column;
+}
+ 
+.tovary-card-grid {
+  gap: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.tovary-product-info-card1 {
+  gap: 16px;
+  width: 260.3333435058594px;
+  display: flex;
+  padding: 16px;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 251, 235, 1);
+}
+ 
+.tovary-image1 {
+  height: 247px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/tq_1e0e0ozcpy-oj8a-1500w.png");
+}
+ 
+.tovary-body1 {
+  gap: 8px;
+  width: 208px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.tovary-text19 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.tovary-text20 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-text-strong1 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.tovary-text21 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-product-info-card2 {
+  gap: 16px;
+  width: 260.33331298828125px;
+  display: flex;
+  padding: 16px;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 251, 235, 1);
+}
+ 
+.tovary-image2 {
+  height: 247px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/tq_2ndmjsx4mk-c9or-1500w.png");
+}
+ 
+.tovary-body2 {
+  gap: 8px;
+  width: 208px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.tovary-text22 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.tovary-text23 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-text-strong2 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.tovary-text24 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-navlink {
+  display: contents;
+}
+ 
+.tovary-product-info-card3 {
+  gap: 16px;
+  width: 260.33331298828125px;
+  display: flex;
+  padding: 16px;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  text-decoration: none;
+  background-color: rgba(255, 251, 235, 1);
+}
+ 
+.tovary-image3 {
+  height: 247px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/tq_dailk5vpi1-5ikv-1500w.png");
+}
+ 
+.tovary-body3 {
+  gap: 8px;
+  width: 208px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.tovary-text25 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.tovary-text26 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-text-strong3 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.tovary-text27 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-product-info-card4 {
+  gap: 16px;
+  width: 260.3333435058594px;
+  display: flex;
+  padding: 16px;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 251, 235, 1);
+}
+ 
+.tovary-image4 {
+  height: 247px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/tq_xkalhxwc5z-6jki-1500w.png");
+}
+ 
+.tovary-body4 {
+  gap: 8px;
+  width: 208px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.tovary-text28 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.tovary-text29 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-text-strong4 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.tovary-text30 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-product-info-card5 {
+  gap: 16px;
+  width: 260.33331298828125px;
+  display: flex;
+  padding: 16px;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 251, 235, 1);
+}
+ 
+.tovary-image5 {
+  height: 247px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/tq_e043k3cugc-541g-1500w.png");
+}
+ 
+.tovary-body5 {
+  gap: 8px;
+  width: 208px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.tovary-text31 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.tovary-text32 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-text-strong5 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.tovary-text33 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-product-info-card6 {
+  gap: 16px;
+  width: 260.33331298828125px;
+  display: flex;
+  padding: 16px;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 251, 235, 1);
+}
+ 
+.tovary-image6 {
+  height: 247px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/tq_cs_izjbm5l-o68k-1500w.png");
+}
+ 
+.tovary-body6 {
+  gap: 8px;
+  width: 208px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.tovary-text34 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.tovary-text35 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-text-strong6 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.tovary-text36 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.tovary-image7 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+ 
+.tovary-link {
+  display: contents;
+}
+ 
+.tovary-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.tovary-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.tovary-text37 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
